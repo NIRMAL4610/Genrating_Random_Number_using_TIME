@@ -22,18 +22,21 @@ This C++ program generates a pseudo-random number using the current system time.
 ## 🖥️ Using Any IDE
 You can also use any C++-supported IDE such as:
 
-Visual Studio Code
-Code::Blocks
-Dev-C++
-CLion
-Eclipse
-Xcode (for macOS users)
+- Visual Studio Code
+- Code::Blocks
+- Dev-C++
+- CLion
+- Eclipse
+- Xcode (for macOS users)
+  
 💡 Steps for IDE Users:
-Open the IDE and create a new C++ project.
-Copy and paste the code into the main .cpp file.
-Configure the compiler settings (if required).
-Click Build & Run 
-🔹 Note: Ensure that the IDE uses a C++11 or later compiler for compatibility.
+
+1. Open the IDE and create a new C++ project.
+2. Copy and paste the code into the main .cpp file.
+3. Configure the compiler settings (if required).
+4. Click Build & Run
+  
+📌 Note: Ensure that the IDE uses a C++11 or later compiler for compatibility.
 
 ## 🛠️ Compilation and Execution
 📌 Notes:
